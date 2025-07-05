@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite (if used temporarily for dev)
+*.sqlite3
+
+# Docker
+*.pid
+*.bak
+docker-compose.override.yml
+
+# Unit test / coverage
+htmlcov/
+.coverage
+.tox/
+.nox/
+pytest_cache/
+coverage.xml
+nosetests.xml
+test-results/
+
+# Prometheus
+prometheus-data/
+
+# Misc
+*.swp
+*.tmp
+*.orig
+
+# Python virtual environment
+pip-wheel-metadata/
