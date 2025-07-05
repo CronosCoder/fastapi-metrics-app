@@ -39,7 +39,7 @@ A production-ready FastAPI application with integrated metrics monitoring using 
 > Make sure you have Docker & Docker Compose installed.
 
 ```bash
-git clone https://github.com/your-repo/fastapi-metrics-app.git
+git clone https://github.com/CronosCoder/fastapi-metrics-app
 cd fastapi-metrics-app
 
 # Run the application stack (FastAPI + PostgreSQL + Prometheus)
@@ -103,5 +103,4 @@ scrape_configs:
 
 ## 👨‍💻 Author
 
-Developed by Foysal | Backend Python Engineer  
-MIT License
+Developed by Foysal | Backend Python Developer
